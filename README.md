@@ -9,3 +9,5 @@
 ![Sravya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sravya2007&show_icons=true&theme=jolly)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya2007&show_icons=true&theme=jolly)](https://github.com/Sravya2007/github-readme-stats)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Sravya2007&theme=dracula&row=1)](https://github.com/Sravya2007/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=Sravya2007&color=ED5ECD)
